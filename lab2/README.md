@@ -26,6 +26,7 @@ V = N mod 3 = 13 mod 3 = 1
 
 ## Структура проєкту
 
+```text
 lab2/
 ├── gradle/
 │   ├── wrapper/
@@ -43,6 +44,7 @@ lab2/
 ├── gradlew.bat
 ├── .gitignore
 └── README.md
+```
 
 ## Запуск тестів
 
